@@ -4,7 +4,7 @@
 
  <div id="badges" align="center">
    <a href="your-linkedin-URL">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://github-production-user-asset-6210df.s3.amazonaws.com/10694593/347407434-c5c5acc3-f434-4a8d-a834-6d94a7ffb45a.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250124T083928Z&X-Amz-Expires=300&X-Amz-Signature=ba33e29d324a8df0d0c3f097dcbea042a14715b31bc4aa145ed2e43f064d98f8&X-Amz-SignedHeaders=host)" alt="Telegram Badge"/>
    </a>
    <a href="your-youtube-URL">
      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
